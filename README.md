@@ -1,4 +1,4 @@
-- 👋 Salut,je suis Jules KETIKA
+- 👋 Salut, je suis Jules KETIKA
 - 👀 Je suis un passioné de l'informatique précisemen la conception des logiciels, de sites web et à la sécurité informatique
 - 🌱 J'étudie actuellement à ESA (École Supérieure des Affaires)
 - 💞️ Je peux collaborer en programmation ou aider des personnes qui ont un problème en Pascal(avec delphi ou lazarus), SQL, Angular, HTML, CSS, JS, TS,Java,Firebase,Bootstrap ...
